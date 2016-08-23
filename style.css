@@ -32,17 +32,17 @@ body {
 #menu li {
   height: 25px;
   float: left;
-  margin-right: 79px;
+  margin-right: 99px;
   text-align: center;
 }
 #menu a:link {
   background-color: #aeada9;
   color: white;
   text-decoration: none;
-  width: 78px;/*98*/
+  width: 98px;
   height: 25px;
   font-size: 20px;
-  /*margin-left: 200px;*/
+  margin-left: 200px;
   position: absolute;
   border-left: 1px solid black;
   border-right: 1px solid black;
