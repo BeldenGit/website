@@ -62,10 +62,11 @@ body {
   background-color: #aeada9;
   color: white;
   word-wrap: break-word;
+  padding-left: 75;
+  padding-top: 75;
+  padding-right: 75;
   position: absolute;
   margin-top: 210px;
-  margin-left: 25px;
-  margin-right: 50px;
   width: 650px;
   height: 545px;
 }
