@@ -61,6 +61,7 @@ body {
 #mainBox {
   background-color: #aeada9;
   color: red;
+  word-wrap: break-word;
   position: absolute;
   margin-top: 215px;
   width: 800px;
