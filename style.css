@@ -69,3 +69,10 @@ body {
   width: 650px;
   height: 570px;
 }
+#footer {
+  background-color: #aeada9;
+  width: 800px;
+  height: 20px;
+  position: absolute;
+  margin-top: 780px;
+}
