@@ -2,19 +2,68 @@ body {
   background-image: url("http://i.imgur.com/gKySOw8.png");
   background-repeat: no-repeat;
   background-color: orange;
+  background-position: center; 
 }
 #header {
-  background-color: white;
+  background-color: #aeada9;
   width: 800px;
   height: 175px;
   position: absolute;
-  margin-top: 50px;
+  /*margin-top: 50px;*/
 }
 #main {
-  background-color: grey;
+  background-color: blue;
   width: 800px;
   height: 800px;
   position: absolute;
   left: 50%;
   margin-left: -400px;
+}
+#menu {
+  background-color: #aeada9;
+  width: 800px;
+  height: 25px;
+  position: absolute;
+  margin-top: 180px;
+}
+#menu ul {
+  display: inline;
+  list-style-type: none;
+}
+#menu li {
+  height: 25px;
+  float: left;
+  margin-right: 79px;
+  text-align: center;
+}
+menu a:link {
+  background-color: #aeada9;
+  color: white;
+  text-decoration: none;
+  width: 98px;
+  height: 25px;
+  font-size: 20px;
+  margin-left: 200px;
+  position: absolute;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+menu a:visited {
+  background-color: #aeada9;
+  color: white;
+  text-decoration: none;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+}
+menu a:hover {
+  background-color: white;
+  color: #aeada9;
+}
+#mainBox {
+  background-color: #aeada9;
+  color: red;
+  position: absolute;
+  margin-top: 215px;
+  width: 800px;
+  height: 570px;
 }
