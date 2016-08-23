@@ -1,8 +1,5 @@
 body {
-  background-image: url("http://i.imgur.com/gKySOw8.png");
-  background-repeat: no-repeat;
   background-color: orange;
-  background-position: center; 
 }
 #header {
   background-color: #aeada9;
@@ -60,6 +57,7 @@ body {
 }
 #mainBox {
   background-image: url("http://i.imgur.com/gKySOw8.png");
+  background-repeat:no-repeat;
   background-size: contain;
   background-color: #aeada9;
   color: red;
