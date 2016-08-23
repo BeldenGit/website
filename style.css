@@ -3,3 +3,11 @@ body {
   background-repeat: no-repeat;
   background-color: orange;
 }
+#header {
+  background-color: white;
+  width: 800px;
+  height: 175px;
+  position: absolute;
+  left: 50%;
+  margin-left: -400px;
+}
