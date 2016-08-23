@@ -5,7 +5,7 @@ body {
   background-position: center; 
 }
 #header {
-  background-color: white;/*#aeada9;*/
+  background-color: #aeada9;
   width: 800px;
   height: 175px;
   position: absolute;
@@ -19,7 +19,7 @@ body {
   margin-left: -400px;
 }
 #menu {
-  background-color: pink;/*#aeada9;*/
+  background-color: #aeada9;
   width: 800px;
   height: 25px;
   position: absolute;
@@ -36,8 +36,8 @@ body {
   text-align: center;
 }
 #menu a:link {
-  background-color: blue/*#aeada9;*/
-  color: red; /*white*/
+  background-color: #aeada9;
+  color: white;
   text-decoration: none;
   width: 78px;/*98*/
   height: 25px;
@@ -48,15 +48,15 @@ body {
   border-right: 1px solid black;
 }
 #menu a:visited {
-  background-color: blue;/*#aeada9;*/
-  color: red;/*white*/
+  background-color: #aeada9;
+  color: white;
   text-decoration: none;
   border-left: 1px solid black;
   border-right: 1px solid black;
 }
 #menu a:hover {
-  background-color: red;/*white*/
-  color: blue;/*#aeada9*/
+  background-color: white;
+  color: #aeada9;
 }
 #mainBox {
   background-color: #aeada9;
