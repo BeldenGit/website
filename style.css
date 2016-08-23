@@ -60,6 +60,7 @@ body {
 }
 #mainBox {
   background-image: url("http://i.imgur.com/gKySOw8.png");
+  background-size: contain;
   background-color: #aeada9;
   color: red;
   word-wrap: break-word;
