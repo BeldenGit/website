@@ -1,19 +1,19 @@
 body {
   background-color: white;
 }
+#main {
+  width: 800px;
+  height: 779px;
+  position: absolute;
+  left: 50%;
+  margin-left: -400px;
+}
 #header {
   background-color: #aeada9;
   width: 800px;
   height: 175px;
   position: absolute;
   /*margin-top: 50px;*/
-}
-#main {
-  width: 800px;
-  height: 800px;
-  position: absolute;
-  left: 50%;
-  margin-left: -400px;
 }
 #menu {
   background-color: #aeada9;
@@ -39,7 +39,7 @@ body {
   width: 98px;
   height: 25px;
   font-size: 20px;
-  margin-left: 200px;
+  margin-left: 30%;
   position: absolute;
   border-left: 1px solid black;
   border-right: 1px solid black;
