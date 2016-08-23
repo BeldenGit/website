@@ -5,14 +5,13 @@ body {
   background-position: center; 
 }
 #header {
-  background-color: #aeada9;
+  background-color: white;/*#aeada9;*/
   width: 800px;
   height: 175px;
   position: absolute;
   /*margin-top: 50px;*/
 }
 #main {
-  background-color: blue;
   width: 800px;
   height: 800px;
   position: absolute;
@@ -20,7 +19,7 @@ body {
   margin-left: -400px;
 }
 #menu {
-  background-color: #aeada9;
+  background-color: white;/*#aeada9;*/
   width: 800px;
   height: 25px;
   position: absolute;
@@ -37,30 +36,30 @@ body {
   text-align: center;
 }
 menu a:link {
-  background-color: #aeada9;
-  color: white;
+  background-color: blue/*#aeada9;*/
+  color: red; /*white*/
   text-decoration: none;
-  width: 98px;
+  width: 78px;/*98*/
   height: 25px;
   font-size: 20px;
-  margin-left: 200px;
+  /*margin-left: 200px;*/
   position: absolute;
   border-left: 1px solid black;
   border-right: 1px solid black;
 }
 menu a:visited {
-  background-color: #aeada9;
-  color: white;
+  background-color: blue;/*#aeada9;*/
+  color: red;/*white*/
   text-decoration: none;
   border-left: 1px solid black;
   border-right: 1px solid black;
 }
 menu a:hover {
-  background-color: white;
-  color: #aeada9;
+  background-color: red;/*white*/
+  color: blue;/*#aeada9*/
 }
 #mainBox {
-  background-color: #aeada9;
+  background-color: /*#aeada9;*/
   color: red;
   position: absolute;
   margin-top: 215px;
